@@ -32,7 +32,7 @@
     "href": "quarto/index.html#top-causes-of-readmission",
     "title": "Predictors and Outcomes of 30-Day Readmission in Patients Hospitalized for Acute Ischemic Stroke Undergoing Mechanical Thrombectomy",
     "section": "Top Causes of Readmission",
-    "text": "Top Causes of Readmission\n\n\n              Diagnosis Proportion\nI10_DX1I63311    I63311  0.3665572\nI10_DX1I63411    I63411  0.3384146\nI10_DX1I69354    I69354  0.2950281"
+    "text": "Top Causes of Readmission\n\n\n\n\n\n\n\n\nICD-10 Code\nICD-10 Description\nProportion\n\n\n\n\nI63\nCerebral infarction\n0.1415\n\n\nA41\nSepsis\n0.1372\n\n\nI69\nSequelae of cerebrovascular disease\n0.0758\n\n\nI48\nAtrial fibrillation and flutter\n0.0474\n\n\nI61\nNontraumatic Intracerebral hemorrhage\n0.0474\n\n\nJ69\nPneumonitis due to solids and liquids\n0.0437\n\n\nI65\nOcclusion and stenosis of precerebral arteries, not resulting in cerebral infarction\n0.0371\n\n\nN17\nAcute kidney failure\n0.0295\n\n\nN39\nOther disorders of the urinary system\n0.0239\n\n\nI50\nHeart failure\n0.0208"
   },
   {
     "objectID": "quarto/index.html#multivariable-analyses",
